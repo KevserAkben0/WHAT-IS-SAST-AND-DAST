@@ -1,4 +1,4 @@
-# WHAT-IS-SAST-AND DAST?
+# WHAT-IS-SAST-AND-DAST?
 SAST's general operating logic
 ---
 
